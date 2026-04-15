@@ -1,4 +1,4 @@
-package com.example.mini;
+package com.example.mini.product;
 
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;

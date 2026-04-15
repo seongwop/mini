@@ -1,4 +1,4 @@
-package com.example.mini;
+package com.example.mini.product;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

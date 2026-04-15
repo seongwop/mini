@@ -1,4 +1,4 @@
-package com.example.mini;
+package com.example.mini.product;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
